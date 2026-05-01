@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌱 Strengthening my algorithmic foundations in **Machine Learning**, **NLP (Natural Language Processing)**, and **Object-Oriented Programming (OOP)**.
+- 🌱 Strengthening my algorithmic foundations in **Machine Learning**, **NLP (Natural Language Processing)**, and **LLM (Large Language Model)**.
 - 🔭 Currently working on web programming with **HTML, CSS, and JavaScript** technologies and developing software projects.
 - 👯 Managing technology-oriented projects and organizations as the President of **A.T.A.K. (Rational Technology and Research Club)**.
 - 🎯 My Goal: To improve myself globally and achieve international success.
@@ -29,7 +29,7 @@ Sade, modern tasarımları seven ve teknolojinin sınırlarını keşfetmekten k
 
 ### 🚀 Hakkımda
 
-- 🌱 **Machine Learning**, **NLP (Doğal Dil İşleme)** ve **Nesne Yönelimli Programlama (OOP)** alanlarında algoritmik temellerimi güçlendiriyorum.
+- 🌱 **Machine Learning**, **NLP (Doğal Dil İşleme)** ve **LLM (Büyük Dil Modeli)** alanlarında algoritmik temellerimi güçlendiriyorum.
 - 🔭 Şu anda **HTML, CSS ve JavaScript** teknolojileriyle web programlama üzerinde çalışıyor ve yazılım projeleri geliştiriyorum.
 - 👯 Kurucusu ve başkanı olduğum **A.T.A.K. (Akılcı Teknoloji ve Araştırma Kulübü)** bünyesinde organizasyon süreçlerini yönetiyor ve teknoloji projelerine liderlik ediyorum.
 - 🎯 Hedefim: Kendimi global çapta geliştirerek uluslararası bir başarı sağlamak.
